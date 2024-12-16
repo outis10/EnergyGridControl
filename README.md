@@ -13,7 +13,6 @@ SmartGrid Monitor is a distributed system designed to monitor smart grids in rea
 
 ## General Architecture
 
-
 ### Key Technologies:
 - **Java 17**
 - **Spring Boot**
